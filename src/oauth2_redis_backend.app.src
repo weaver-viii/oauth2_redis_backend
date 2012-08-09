@@ -1,0 +1,4 @@
+{application, oauth2_redis_backend, [
+    {description, "Pooled eredis backend for kivra oauth2"},
+    {vsn, "0.1.0"}
+]}.
